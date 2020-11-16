@@ -19,4 +19,4 @@ for (var i = 0; i < listaCognomi.length; i++) {
 // Scrivi anche la posizione "umana" della lista in cui il nuovo utente si trova.
 //
 var posCognome = (listaCognomi.indexOf(cognome)) + 1;
-console.log("Posizione" + " " + listaCognomi.indexOf(cognome));
+console.log("posizione"+ " " + posCognome) ;
